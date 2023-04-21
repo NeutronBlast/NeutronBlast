@@ -3,11 +3,12 @@
 
 ## About Me
 
-I am a frontend developer from Venezuela. Currently developing my skills in Python 💪🏻
+I am a full stack software developer with a passion for building efficient and scalable web applications.
 
-💡 &nbsp;I love exploring websites and developing quick scripts to make my life easier doing some tasks inside them\
-🎓 &nbsp;I'm currently on 10th semester of Informatics Engineering in Universidad Católica Andrés Bello. 
-Working on thesis at the moment\
+💡 &nbsp;I am proficient in multiple programming languages, including JavaScript, Python, and Java, and have experience with popular frameworks like Vue.js, Angular, Laravel, and Django.
+💖 &nbsp;I am a problem solver at heart and enjoy finding creative solutions to complex technical challenges.
+💭 &nbsp;I have strong communication skills and am able to translate technical concepts into layman's terms. My experience with freelancing enables me to effectively communicate with clients to understand their requirements and deliver products that meet their needs.
+📔 &nbsp;I am committed to staying up-to-date with the latest industry trends and technologies, and I am always seeking to improve my skills through continued learning and experimentation. Currently interested in Web3 and cryptocurrency.
 
 ## Where to find me
 <a href="https://github.com/NeutronBlast" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
