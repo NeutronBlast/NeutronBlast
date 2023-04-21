@@ -40,10 +40,9 @@ Working on thesis at the moment\
 
 
 ### Database Managers
-<a href="https://postgres.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="45" height="45"/> </a>   
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="45"/> </a>
 <a style="padding-right:8px;" href="https://www.oracle.com/database/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="45"/> </a>
-
+<a href="https://postgres.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="45" height="45"/> </a>   
 
 ### Tools
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
