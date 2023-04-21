@@ -5,9 +5,9 @@
 
 I am a full stack software developer with a passion for building efficient and scalable web applications.
 
-💡 &nbsp;I am proficient in multiple programming languages, including JavaScript, Python, and Java, and have experience with popular frameworks like Vue.js, Angular, Laravel, and Django.
-💖 &nbsp;I am a problem solver at heart and enjoy finding creative solutions to complex technical challenges.
-💭 &nbsp;I have strong communication skills and am able to translate technical concepts into layman's terms. My experience with freelancing enables me to effectively communicate with clients to understand their requirements and deliver products that meet their needs.
+💡 &nbsp;I am proficient in multiple programming languages, including JavaScript, Python, and Java, and have experience with popular frameworks like Vue.js, Angular, Laravel, and Django.\
+💖 &nbsp;I am a problem solver at heart and enjoy finding creative solutions to complex technical challenges.\
+💭 &nbsp;I have strong communication skills and am able to translate technical concepts into layman's terms. My experience with freelancing enables me to effectively communicate with clients to understand their requirements and deliver products that meet their needs.\
 📔 &nbsp;I am committed to staying up-to-date with the latest industry trends and technologies, and I am always seeking to improve my skills through continued learning and experimentation. Currently interested in Web3 and cryptocurrency.
 
 ## Where to find me
