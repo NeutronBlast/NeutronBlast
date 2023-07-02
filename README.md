@@ -49,8 +49,8 @@ I am a full stack software developer with a passion for building efficient and s
 
 ### Database Managers
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="45"/> </a>
-<a style="padding-right:8px;" href="https://www.oracle.com/database/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="45"/> </a>
 <a style="padding-right:8px;" href="https://firebase.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/> </a>  
+<a style="padding-right:8px;" href="https://www.oracle.com/database/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="45"/> </a>
 <a style="padding-right:8px;" href="https://postgres.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="45" height="45"/> </a>   
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="mssql" width="45" height="45"/> </a>   
  
