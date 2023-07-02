@@ -16,22 +16,29 @@ I am a full stack software developer with a passion for building efficient and s
 ## Tech Stack
 
 ### Languages and Frameworks
+
+#### Frontend
 <a href="https://vuejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="45" height="45"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="45" height="45"/> </a>
 <a href="https://angular.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="45" height="45"/> </a>
-<a href="https://www.typescriptlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="45" height="45"/> </a>
-<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="45" height="45"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="laravel" width="45" height="45"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="45" height="45"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" height="45"/> </a>
-<a href="https://laravel.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="45" height="45"/> </a>
-<a href="https://www.php.net" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="45" height="45"/> </a>
-<a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="45" height="45"/> </a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt="dotnet" height="45"/> </a>
-<a href="https://nodejs.org/es/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs" height="45"/> </a>
-<a href="https://adonisjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21.svg" alt="adonis" height="45"/> </a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" height="45"/> </a>
 <a href="https://materializecss.com" target="_blank"> <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/materializecss.svg" alt="materializecss" width="45" height="45"/> </a>
+<a href="https://akveo.github.io/nebular/" target="_blank"> <img src="https://akveo.github.io/nebular/assets/img/akveo-logo.png" alt="nebular" width="45" height="45"/> </a>
+
+#### Backend
+<a href="https://www.djangoproject.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="python" width="45" height="45"/> </a>
+<a href="https://laravel.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="45" height="45"/> </a>
+<a href="https://nodejs.org/es/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs" height="45"/> </a>
+<a href="https://adonisjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21.svg" alt="adonis" height="45"/> </a>
+
+#### Languages
+<a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="45" height="45"/> </a>
+<a href="https://www.typescriptlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="45" height="45"/> </a>
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="45" height="45"/> </a>
+<a href="https://www.php.net" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="45" height="45"/> </a>
+<a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="45" height="45"/> </a>
 
 
 ### Operating systems
@@ -44,6 +51,8 @@ I am a full stack software developer with a passion for building efficient and s
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="45"/> </a>
 <a style="padding-right:8px;" href="https://www.oracle.com/database/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="45"/> </a>
 <a href="https://postgres.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="45" height="45"/> </a>   
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="mssql" width="45" height="45"/> </a>   
+<a href="https://firebase.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/> </a>   
 
 ### Tools
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
@@ -51,6 +60,8 @@ I am a full stack software developer with a passion for building efficient and s
 <a href="https://www.phpmyadmin.net" target="_blank"> <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="phpmyadmin" height="45"/> </a>
 <a href="https://www.jetbrains.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="jetbrains" height="45"/> </a>
 <a href="https://javaee.github.io/glassfish/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javaee_glassfish/javaee_glassfish-ar21.svg" alt="glassfish" height="45"/> </a>
+<a href="https://powerbi.microsoft.com/es-es/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" height="45"/> </a>
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"> <img src="https://www.itop.es/images/Tecnologias/pentaho-color-itop.png" alt="pentaho" height="45"/> </a>
 
 ## GitHub Analytics
 
