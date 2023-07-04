@@ -51,6 +51,8 @@ I am a full stack software developer with a passion for building efficient and s
 <a href="https://www.mysql.com" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="mysql" width="45" height="45"/> </a>
 <a href="https://firebase.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/> </a>
 <a href="https://www.oracle.com/database/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" height="45"/> </a>
+<a href="https://postgres.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="45" height="45"/> </a>
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="mssql" width="45" height="45"/> </a>
 
 ### Tools
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
