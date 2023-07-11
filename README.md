@@ -15,7 +15,7 @@ I am a full stack software developer with a passion for building efficient and s
 
 ## Tech Stack
 
-### Languages and Frameworks
+### Languages, Frameworks and Libraries
 
 #### Frontend
 <a href="https://vuejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="45" height="45"/> </a>
