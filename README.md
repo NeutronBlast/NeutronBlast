@@ -62,6 +62,7 @@ I am a full stack software developer with a passion for building efficient and s
 <a href="https://javaee.github.io/glassfish/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javaee_glassfish/javaee_glassfish-ar21.svg" alt="glassfish" height="45"/> </a>
 <a href="https://powerbi.microsoft.com/es-es/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" height="45"/> </a>
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"> <img src="https://www.itop.es/images/Tecnologias/pentaho-color-itop.png" alt="pentaho" height="45"/> </a>
+<a href="https://www.redhat.com/es/technologies/jboss-middleware/web-server" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/JBoss_logo.svg" alt="jboss" height="45"/> </a>
 
 ## GitHub Analytics
 
