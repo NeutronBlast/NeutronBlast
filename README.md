@@ -31,6 +31,8 @@ I am a full stack software developer with a passion for building efficient and s
 <a href="https://fastapi.tiangolo.com" target="_blank"> <img src="https://vectorwiki.com/images/i0tvc__fastapi.svg" alt="fastapi" width="45" height="45"/> </a>
 <a href="https://laravel.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="45" height="45"/> </a>
 <a href="https://nodejs.org/es/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs" height="45"/> </a>
+<a href="https://expressjs.com/es/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" height="45"/> </a>
+<a href="https://rubyonrails.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" height="45"/> </a>
 <a href="https://adonisjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21.svg" alt="adonis" height="45"/> </a>
 
 #### Languages
