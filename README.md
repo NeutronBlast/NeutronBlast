@@ -67,6 +67,10 @@ I am a full stack software developer with a passion for building efficient and s
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"> <img src="https://www.itop.es/images/Tecnologias/pentaho-color-itop.png" alt="pentaho" height="45"/> </a>
 <a href="https://www.redhat.com/es/technologies/jboss-middleware/web-server" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/JBoss_logo.svg" alt="jboss" height="45"/> </a>
 
+### Testing
+<a href="https://cucumber.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="cucumber" width="45" height="45"/> </a>
+<a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="45" height="45"/> </a>
+
 ## GitHub Analytics
 
 <p align="center">
