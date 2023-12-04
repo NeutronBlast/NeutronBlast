@@ -44,13 +44,13 @@ I am a full stack software developer with a passion for building efficient and s
 <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" height="45"/> </a>
 
 
-### Operating systems
+#### Operating systems
 <a href="https://www.microsoft.com/es-es/windows?r=1" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="45" height="45"/> </a>
 <a href="https://www.kali.org" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/kali/images/99996646-d340-4b8f-b820-e25525048e9c.svg" width="45" height="45"/> </a>
 <a href="https://ubuntu.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="45" height="45"/> </a>
 
 
-### Database Managers
+#### Database Managers
 <a href="https://www.mysql.com" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="mysql" width="45" height="45"/> </a>
 <a href="https://firebase.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/> </a>
 <a href="https://www.oracle.com/database/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" height="45"/> </a>
@@ -58,7 +58,7 @@ I am a full stack software developer with a passion for building efficient and s
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="mssql" width="45" height="45"/> </a>
 <a href="https://www.influxdata.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/influxdata/influxdata-icon.svg" alt="influx" width="45" height="45"/> </a>
 
-### Tools
+#### Tools
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45" height="45"/> </a>
 <a href="https://www.phpmyadmin.net" target="_blank"> <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="phpmyadmin" height="45"/> </a>
@@ -68,7 +68,7 @@ I am a full stack software developer with a passion for building efficient and s
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"> <img src="https://www.itop.es/images/Tecnologias/pentaho-color-itop.png" alt="pentaho" height="45"/> </a>
 <a href="https://www.redhat.com/es/technologies/jboss-middleware/web-server" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/JBoss_logo.svg" alt="jboss" height="45"/> </a>
 
-### Testing
+#### Testing
 <a href="https://cucumber.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="cucumber" width="45" height="45"/> </a>
 <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="45" height="45"/> </a>
 
