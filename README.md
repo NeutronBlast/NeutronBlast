@@ -44,8 +44,8 @@ I am a full stack software developer with a passion for building efficient and s
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="45" height="45"/> </a>
 <a href="https://www.php.net" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="45" height="45"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="45" height="45"/> </a>
-<a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" height="45"/> </a>
 <a href="https://go.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="go" height="45"/> </a>
+<a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" height="45"/> </a>
 
 #### Operating systems
 <a href="https://www.microsoft.com/es-es/windows?r=1" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="45" height="45"/> </a>
