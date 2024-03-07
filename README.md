@@ -17,12 +17,12 @@ I am a full stack software developer with a passion for building efficient and s
 
 ### Languages, Frameworks and Libraries
 
-#### Frontend
+#### Frontend Frameworks
 <a href="https://angular.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="45" height="45"/> </a>
 <a href="https://vuejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="45" height="45"/> </a>
 <a href="https://www.gatsbyjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="45" height="45"/> </a>
 
-##### Libraries
+##### Frontend Libraries
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" height="45"/> </a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" height="45"/> </a>
 <a href="https://materializecss.com" target="_blank"> <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/materializecss.svg" alt="materializecss" width="45" height="45"/> </a>
