@@ -25,6 +25,7 @@ I am a full stack software developer with a passion for building efficient and s
 <a href="https://materializecss.com" target="_blank"> <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/materializecss.svg" alt="materializecss" width="45" height="45"/> </a>
 <a href="https://akveo.github.io/nebular/" target="_blank"> <img src="https://akveo.github.io/nebular/assets/img/akveo-logo.png" alt="nebular" width="45" height="45"/> </a>
 <a href="https://primeng.org" target="_blank"> <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png?fit=1000%2C1000&ssl=1&w=640" alt="primeng" width="45" height="45"/> </a>
+<a href="https://www.gatsbyjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="45" height="45"/> </a>
 
 #### Backend
 <a href="https://www.djangoproject.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="45" height="45"/> </a>
