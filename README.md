@@ -18,8 +18,8 @@ I am a full stack software developer with a passion for building efficient and s
 ### Languages, Frameworks and Libraries
 
 #### Frontend
-<a href="https://vuejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="45" height="45"/> </a>
 <a href="https://angular.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="45" height="45"/> </a>
+<a href="https://vuejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="45" height="45"/> </a>
 <a href="https://www.gatsbyjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="45" height="45"/> </a>
 
 ##### Libraries
